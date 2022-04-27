@@ -1,0 +1,11 @@
+In this assingment I made 4 header files, user.h, user_database.h, books.h, books_database.h and a cpp file named main.cpp.
+
+Also I included conio.h libraray which needs to be installed in the system to rum the files.
+
+commands to run the programm:
+	g++ main.cpp -o main.out //It will create main.out executable.
+	./main.out// runing the executable file.
+
+In this Library management project we have to initialise/pass all the data while running the ./main.out . We can also initialise default data in our program files.
+
+
